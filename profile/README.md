@@ -14,6 +14,9 @@ Voltage brings a suite of lightning node and data services to the market that el
 You are here to either setup enterprise grade Bitcoin infrastructure in less than two minutes, or seek further information on Voltage, so let’s get you where you need to be.
 
 &nbsp;
+
+[![X](https://github.com/LiamCYD/.github/blob/patch-1/X%20icon%20x2.png?raw=true)][1]    &nbsp;    [![linkedin](https://github.com/LiamCYD/.github/blob/patch-1/Linkedin%20icon%20x2.png?raw=true)][2]    &nbsp;    [![discord](https://github.com/LiamCYD/.github/blob/patch-1/Discord%20icon%20x2.png?raw=true)][3]
+
 ***
 &nbsp;
 
@@ -33,3 +36,6 @@ The "lnd-example-bot" repository demonstrates how to interact with an LND node's
 - [voltage-tipper](https://github.com/austinkelsay/voltage-tipper)  
 The "voltage-tipper" repository is a simple Lightning tipping app template built with NextJS and Voltage. It is currently under construction and designed to be deployed with Vercel.
 
+[1]: https://x.com/voltage_cloud
+[2]: https://www.linkedin.com/company/voltagecloud/
+[3]: https://discord.com/channels/941006529086234644/941006529086234647
