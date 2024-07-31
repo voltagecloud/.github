@@ -12,8 +12,6 @@ You are here to either setup enterprise grade Bitcoin infrastructure in less tha
 
 [![X](Xiconx2.png)][1] &nbsp; [![linkedin](Linkediniconx2.png)][2] &nbsp; [![discord](Discordiconx2.png)][3]
 
-***
-&nbsp;
 
 ## Utilities
 - [voltage-auto-unlock](https://github.com/w3irdrobot/voltageautounlock)  
