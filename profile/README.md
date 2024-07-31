@@ -14,7 +14,8 @@ You are here to either setup enterprise grade Bitcoin infrastructure in less tha
 
 
 ## Utilities
-- [voltage-auto-unlock](https://github.com/w3irdrobot/voltageautounlock)  
+### 🔐 [voltage-auto-unlock](https://github.com/w3irdrobot/voltageautounlock)
+
 The "voltageautounlock" repository provides an auto-unlock service for Voltage LND nodes. It allows setting up a server to receive webhooks and unlock the node, with deployment options including Fly.io, Railway, Docker, and source. Key environment variables include the Node API URL, webhook secret, and wallet password.
 
 - [zero-conf-lnd](https://github.com/voltagecloud/zero-conf-lnd)  
