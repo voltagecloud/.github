@@ -31,7 +31,8 @@ The "zero-conf-cln" repository provides a plugin for selectively allowing zero-c
 ### 🤖 [lnd-example-bot](https://github.com/tee8z/lnd-example-bot) 
 The "lnd-example-bot" repository demonstrates how to interact with an LND node's API using Rust. The bot repeatedly calls the node's /getinfo endpoint as a "ping" every 30 seconds. It requires a macaroon with /getinfo permissions and the node's URL.
 
-- [voltage-tipper](https://github.com/austinkelsay/voltage-tipper)  
+### ⚡️ [voltage-tipper](https://github.com/austinkelsay/voltage-tipper)
+
 The "voltage-tipper" repository is a simple Lightning tipping app template built with NextJS and Voltage. It is currently under construction and designed to be deployed with Vercel.
 
 [1]: https://x.com/voltage_cloud
