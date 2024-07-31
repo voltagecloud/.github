@@ -9,7 +9,6 @@ Voltage brings a suite of lightning node and data services to the market that el
 
 You are here to either setup enterprise grade Bitcoin infrastructure in less than two minutes, or seek further information on Voltage, so let’s get you where you need to be.
 
-&nbsp;
 
 [![X](Xiconx2.png)][1] &nbsp; [![linkedin](Linkediniconx2.png)][2] &nbsp; [![discord](Discordiconx2.png)][3]
 
