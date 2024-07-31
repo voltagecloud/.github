@@ -21,7 +21,9 @@ The "voltageautounlock" repository provides an auto-unlock service for Voltage L
 ### 0️⃣ [zero-conf-lnd](https://github.com/voltagecloud/zero-conf-lnd)  
 
 The "zero-conf-lnd" repository helps accept Zero-Conf channels on LND by running as a daemon and connecting to your LND node. It requires specific protocol flags and is configured using a YAML file.
-- [zero-conf-cln](https://github.com/voltagecloud/zero-conf-cln)  
+
+### 0️⃣ [zero-conf-cln](https://github.com/voltagecloud/zero-conf-cln)
+
 The "zero-conf-cln" repository provides a plugin for selectively allowing zero-conf channels from a peer on CLN (Core Lightning Network). To use it, clone the repository and start lightningd with the plugin enabled, specifying the peer's public key.
 
 ## Sample projects using Voltage
