@@ -2,10 +2,6 @@
 
 ![](https://archbee-image-uploads.s3.amazonaws.com/CGGF0VLgJQypTJbZ1FbQy/aoF2F0Tr5bORp7wnTzRec_github-org-page-banner.png)  
  
-&nbsp;
-&nbsp;
-&nbsp;
-
 Voltage enables your team to create enterprise-grade experiences. By leveraging Voltage you receive the fastest and most scalable Lightning solution that meets the highest security and privacy standards.
 
 With modern modular tools and processes, you can build, deploy, and scale faster than ever.
