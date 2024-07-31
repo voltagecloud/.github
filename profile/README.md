@@ -23,7 +23,8 @@ The "zero-conf-lnd" repository helps accept Zero-Conf channels on LND by running
 The "zero-conf-cln" repository provides a plugin for selectively allowing zero-conf channels from a peer on CLN (Core Lightning Network). To use it, clone the repository and start lightningd with the plugin enabled, specifying the peer's public key.
 
 ## Sample projects using Voltage
-- [lnd-example-bot](https://github.com/tee8z/lnd-example-bot)  
+
+### 🤖 [lnd-example-bot](https://github.com/tee8z/lnd-example-bot) 
 The "lnd-example-bot" repository demonstrates how to interact with an LND node's API using Rust. The bot repeatedly calls the node's /getinfo endpoint as a "ping" every 30 seconds. It requires a macaroon with /getinfo permissions and the node's URL.
 
 - [voltage-tipper](https://github.com/austinkelsay/voltage-tipper)  
