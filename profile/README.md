@@ -15,7 +15,7 @@ You are here to either setup enterprise grade Bitcoin infrastructure in less tha
 
 &nbsp;
 
-[![X](X%20icon%20x2.png)][1] &nbsp; [![linkedin](Linkedin%20icon%20x2.png)][2] &nbsp; [![discord](Discord%20icon%20x2.png)][3]
+[![X](Xiconx2.png)][1] &nbsp; [![linkedin](Linkediniconx2.png)][2] &nbsp; [![discord](Discordiconx2.png)][3]
 
 ***
 &nbsp;
