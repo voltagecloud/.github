@@ -15,7 +15,7 @@ You are here to either setup enterprise grade Bitcoin infrastructure in less tha
 
 &nbsp;
 
-[![X](https://github.com/LiamCYD/.github/blob/patch-1/X%20icon%20x2.png?raw=true)][1]    &nbsp;    [![linkedin](https://github.com/LiamCYD/.github/blob/patch-1/Linkedin%20icon%20x2.png?raw=true)][2]    &nbsp;    [![discord](https://github.com/LiamCYD/.github/blob/patch-1/Discord%20icon%20x2.png?raw=true)][3]
+[![X](X%20icon%20x2.png)][1] &nbsp; [![linkedin](Linkedin%20icon%20x2.png)][2] &nbsp; [![discord](Discord%20icon%20x2.png)][3]
 
 ***
 &nbsp;
