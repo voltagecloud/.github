@@ -14,6 +14,11 @@ You are here to either setup enterprise grade Bitcoin infrastructure in less tha
 
 
 ## Utilities
+
+### 💻 [bitcoind-tls-proxy](https://github.com/voltagecloud/bitcoind-tls-proxy)
+
+The "bitcoind-tls-proxy" repository helps you to use Bitcoin Core RPC and ZMQ from behind a TLS gateway. Instead of using lengthy `curl` commands, you can use simpler `bitcoin-cli` commands over an encrypted connection.
+
 ### 🔐 [voltage-auto-unlock](https://github.com/w3irdrobot/voltageautounlock)
 
 The "voltageautounlock" repository provides an auto-unlock service for Voltage LND nodes. It allows setting up a server to receive webhooks and unlock the node, with deployment options including Fly.io, Railway, Docker, and source. Key environment variables include the Node API URL, webhook secret, and wallet password.
@@ -27,6 +32,10 @@ The "zero-conf-lnd" repository helps accept Zero-Conf channels on LND by running
 The "zero-conf-cln" repository provides a plugin for selectively allowing zero-conf channels from a peer on CLN (Core Lightning Network). To use it, clone the repository and start lightningd with the plugin enabled, specifying the peer's public key.
 
 ## Sample projects using Voltage
+
+### 🕥 [block-clock](https://github.com/voltagecloud/block-clock)
+
+The "block-clock" repository houses a frontend UI component based on [Bitcoin Core App's design]([url](https://bitcoincore.app/block-clock/)). You can see the Block Clock live if you run on a Bitcoin Core node on Voltage, or use the web component in your own bitcoin projects.
 
 ### 🤖 [lnd-example-bot](https://github.com/tee8z/lnd-example-bot) 
 The "lnd-example-bot" repository demonstrates how to interact with an LND node's API using Rust. The bot repeatedly calls the node's /getinfo endpoint as a "ping" every 30 seconds. It requires a macaroon with /getinfo permissions and the node's URL.
