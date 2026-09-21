@@ -12,6 +12,12 @@ You are here to either setup enterprise grade Bitcoin infrastructure in less tha
 
 [![X](xicongrad.png)][1] &nbsp; [![linkedin](linkedinicongrad.png)][2] &nbsp; [![discord](discordicongrad.png)][3]
 
+## 📌 Featured
+
+### ⌨️ [voltage-cli](https://github.com/voltagecloud/voltage-cli)
+
+`voltage` is the command-line client for the [Voltage API](https://voltageapi.com/v1/docs). It covers wallets, payments, quotes, lines of credit, bills, webhooks, and checkout, and signs you in through your browser or with an environment API key. Signed, verifiable releases are available for macOS, Linux, and Windows on the [releases page](https://github.com/voltagecloud/voltage-cli/releases).
+
 
 ## Utilities
 
